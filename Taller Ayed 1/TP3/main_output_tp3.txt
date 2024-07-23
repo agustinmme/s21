@@ -1,0 +1,19 @@
+Error ese codigo ya existe
+Producto codigo:1 descripcion: 'Producto 23232' precio: 100
+null PREV  SIGUIENTE  Nodo@52d455b8
+
+Producto codigo:2 descripcion: 'Producto 1111' precio: 222220
+Nodo@4f4a7090 PREV  SIGUIENTE  Nodo@18ef96
+
+Producto codigo:3 descripcion: 'Producto 2323' precio: 545
+Nodo@52d455b8 PREV  SIGUIENTE  Nodo@6956de9
+
+Producto codigo:4 descripcion: 'Producto 232332' precio: 213210
+Nodo@18ef96 PREV  SIGUIENTE  Nodo@769c9116
+
+Producto codigo:5 descripcion: 'Producto 32323233' precio: 4440
+Nodo@6956de9 PREV  SIGUIENTE  null
+
+
+
+** Process exited - Return Code: 0 **

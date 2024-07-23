@@ -1,0 +1,59 @@
+Ingrese el num de palabras que desea almacenar: 
+2
+Ingrese la palabra 1: 
+hell@
+Ingrese la palabra 2: 
+w@rld
+Palabras almacenadas:
+1: hell@
+2: w@rld
+Ingrese el num de la palabra para contar la frecuencia de letras: 
+2
+No es una letra: ´@´
+Frecuencia de letras en la palabra ´w@rld´:
+D: 1
+L: 1
+R: 1
+W: 1
+
+
+** Process exited - Return Code: 0 **
+
+
+Ingrese el num de palabras que desea almacenar: 
+2
+Ingrese la palabra 1: 
+sdaas
+Ingrese la palabra 2: 
+adsads
+Palabras almacenadas:
+1: sdaas
+2: adsads
+Ingrese el num de la palabra para contar la frecuencia de letras: 
+4
+Posicion no valida.
+
+
+** Process exited - Return Code: 0 **
+
+Ingrese el num de palabras que desea almacenar: 
+3
+Ingrese la palabra 1: 
+sarasa
+Ingrese la palabra 2: 
+sarasasa
+Ingrese la palabra 3: 
+rasara
+Palabras almacenadas:
+1: sarasa
+2: sarasasa
+3: rasara
+Ingrese el num de la palabra para contar la frecuencia de letras: 
+3
+Frecuencia de letras en la palabra ´rasara´:
+A: 3
+R: 2
+S: 1
+
+
+** Process exited - Return Code: 0 **

@@ -1,0 +1,17 @@
+Contenido de la cola:
+Pedido codigo:1 cliente: 'Cliente Carlos' cantidad: 100
+Pedido codigo:2 cliente: 'Cliente Agustin' cantidad: 200
+Pedido codigo:3 cliente: 'Cliente Carvin' cantidad: 150
+Pedido codigo:4 cliente: 'Cliente Diego' cantidad: 300
+Pedido codigo:5 cliente: 'Cliente Estevan' cantidad: 250
+Resultado final
+Procesado: Pedido codigo:1 cliente: 'Cliente Carlos' cantidad: 100
+Procesado: Pedido codigo:2 cliente: 'Cliente Agustin' cantidad: 200
+Procesado: Pedido codigo:3 cliente: 'Cliente Carvin' cantidad: 150
+Procesado: Pedido codigo:4 cliente: 'Cliente Diego' cantidad: 300
+Procesado: Pedido codigo:5 cliente: 'Cliente Estevan' cantidad: 250
+La cola está vacía
+La cola esta vacia!!
+
+
+** Process exited - Return Code: 0 **

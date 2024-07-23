@@ -1,0 +1,37 @@
+Ingrese el número de equipos 
+6
+Ingrese el nombre del equipo 1: 
+boca
+Ingrese el puntaje del equipo 1: 
+21
+Ingrese el nombre del equipo 2: 
+river
+Ingrese el puntaje del equipo 2: 
+18
+Ingrese el nombre del equipo 3: 
+estudiantes
+Ingrese el puntaje del equipo 3: 
+10
+Ingrese el nombre del equipo 4: 
+tigre
+Ingrese el puntaje del equipo 4: 
+14
+Ingrese el nombre del equipo 5: 
+velez
+Ingrese el puntaje del equipo 5: 
+18
+Ingrese el nombre del equipo 6: 
+sarasa fa
+Ingrese el puntaje del equipo 6: 
+6
+
+Tabla de posiciones ordenada:
+sarasa fa - 6 puntos
+estudiantes - 10 puntos
+tigre - 14 puntos
+river - 18 puntos
+velez - 18 puntos
+boca - 21 puntos
+
+
+** Process exited - Return Code: 0 **

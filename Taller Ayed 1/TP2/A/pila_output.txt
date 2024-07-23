@@ -1,0 +1,36 @@
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+1
+
+ Ingrese el dato a apilar: 
+1000
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+3
+Contenido de la pila:
+1000
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+2
+Dato desapilado: 1000
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+2
+La pila está vacía
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+3
+La pila está vacía
+Menú:
+1. Apilar dato 	 2. Desapilar e imprimir dato 	 3. Consultar estado de la pila 	 4. Salir
+Elija una opción: 
+4
+Cerrado
+
+
+** Process exited - Return Code: 0 **
