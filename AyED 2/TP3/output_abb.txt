@@ -1,0 +1,13 @@
+Output:
+
+El arbol ABB ha sido creado (izquierda-raíz-derecha):
+7 10 12 45 50 90 
+ El arbol ABB después de borrar 12 (Nodo hoja):
+7 10 45 50 90 
+ El arbol ABB después de borrar 90 (Nodo con 1 hijo):
+7 10 45 50 
+ El arbol ABB después de borrar 45 (Nodo con 2 hijos):
+7 10 50 
+Clave 50 en el ABB: true
+
+Clave 12 en el ABB: false

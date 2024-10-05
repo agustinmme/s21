@@ -1,0 +1,10 @@
+Note: ArbolBinario.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Agregando la raiz 30 
+
+El árbol binario en In orden es: 
+20 25 27 30 45 
+La altura del árbol es: 3
+
+
+** Process exited - Return Code: 0 **
